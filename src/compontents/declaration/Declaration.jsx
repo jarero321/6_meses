@@ -7,6 +7,7 @@ import { title } from "../../data/title";
 const Declaration = () => {
   const [start, setStart] = useState(false);
   const [warn, setWarn] = useState(false);
+  console.log('holi')
 
   return (
     <div className="w-screen min-h-screen bg-black px-[20px] py-[40px] ">
