@@ -10,7 +10,7 @@ const Declaration = () => {
   console.log('holi')
 
   return (
-    <div className="w-screen h-[150vh] bg-black px-[20px] py-[40px] ">
+    <div className="w-screen h-[200vh] bg-black px-[20px] py-[40px] ">
       {!start ? (
         <div className="w-full h-screen flex flex-col gap-[12px] items-center justify-center">
           <p className="font-love text-white text-[30px]">
