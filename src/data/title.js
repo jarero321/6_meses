@@ -1,0 +1,1 @@
+export const title = ['Primera salida','Guanajuato check','Comedor en gdl','Burritos night','Masaje si adivinas','La foto goals','Viaje a Mexico','La foto del amor?','La definicion de amor','Mmmm patas','Las visitas','Quiero tenerte en mi vida','Por 6 meses y mas meses a tu lado'];

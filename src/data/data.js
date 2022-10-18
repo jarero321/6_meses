@@ -1,0 +1,15 @@
+import U from '../assets/1.jpeg'
+import D from '../assets/2.jpeg'
+import T from '../assets/3.jpeg'
+import C from '../assets/4.jpeg'
+import CI from '../assets/5.jpeg'
+import SI from '../assets/7.jpeg'
+import O from '../assets/8.jpeg'
+import N from '../assets/9.jpeg'
+import ON from '../assets/11.jpeg'
+import DO from '../assets/12.jpeg'
+import CA from '../assets/14.jpeg'
+import QUIN from '../assets/15.jpeg'
+import DIC from '../assets/16.jpeg'
+
+export const photos_array = [U,D,T,C,CI,SI,O,N,ON,DO,CA,QUIN,DIC]
